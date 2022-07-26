@@ -13,6 +13,7 @@ The jupyter notebook "XKDD_metrics.ipynb" presents the metric calculation for th
 ## Reproducibility
 The structure for the reproducibility is:
 - Run NetDissect (https://github.com/CSAILVision/NetDissect-Lite) using the "settings.py"
+- Download the Action40 dataset - http://vision.stanford.edu/Datasets/40actions.html
 - Run "feature_extraction_global.py" to extract the global concepts.
 - Run "linear_classification.py" to generate the ranked global concepts.
 - Run "feature_extraction_local.py" to extract the local concepts and generate the ranked local concepts.
