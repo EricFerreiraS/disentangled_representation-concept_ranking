@@ -20,11 +20,13 @@ The structure for the reproducibility is:
 - Run "XKDD_metrics.ipynb" to analyse the result.
 
 ## Reference
-@inproceedings{ferreira2023disentangled,<br>
-  title={From Disentangled Representation to Concept Ranking: Interpreting Deep Representations in Image Classification Tasks},<br>
-  author={Ferreira dos Santos, Eric and Mileo, Alessandra},<br>
-  booktitle={Machine Learning and Principles and Practice of Knowledge Discovery in Databases: International Workshops of ECML PKDD 2022, Grenoble, France, September 19--23, 2022, Proceedings, Part I},<br>
-  pages={322--335},<br>
-  year={2023},<br>
-  organization={Springer}<br>
-}
+```
+  @inproceedings{ferreira2023disentangled,
+    title={From Disentangled Representation to Concept Ranking: Interpreting Deep Representations in Image Classification Tasks},
+    author={Ferreira dos Santos, Eric and Mileo, Alessandra},
+    booktitle={Machine Learning and Principles and Practice of Knowledge Discovery in Databases: International Workshops of ECML PKDD 2022, Grenoble, France, September 19--23, 2022, Proceedings, Part I},
+    pages={322--335},
+    year={2023},
+    organization={Springer}
+  }
+```
